@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @USER: 韩冰
  * @DATE: 2022/9/8 0008 0:34
  */
-public class algorithm3 {
+public class algorithm1_3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("请输入年龄");

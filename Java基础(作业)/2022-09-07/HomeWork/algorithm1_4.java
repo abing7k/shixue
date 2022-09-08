@@ -4,7 +4,7 @@
  * @USER: 韩冰
  * @DATE: 2022/9/8 0008 0:41
  */
-public class algorithm4 {
+public class algorithm1_4 {
     public static void main(String[] args) {
         dayin(5); //上最大三角的层数
     }

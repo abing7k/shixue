@@ -4,7 +4,7 @@
  * @USER: 韩冰
  * @DATE: 2022/9/8 0008 1:08
  */
-public class demo1 {
+public class demo1_1 {
     public static void main(String[] args) {
         System.out.println(jiecheng(4));
     }

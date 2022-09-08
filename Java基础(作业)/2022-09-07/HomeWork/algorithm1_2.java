@@ -4,7 +4,7 @@
  * @USER: 韩冰
  * @DATE: 2022/9/8 0008 0:21
  */
-public class algorithm2 {
+public class algorithm1_2 {
     public static void main(String[] args) {
         int m=0;
         for (int i=2;i<=10000;i++){
